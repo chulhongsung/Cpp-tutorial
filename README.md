@@ -1,3 +1,4 @@
 # C++ tutorial
  
-['Youtube lecture'](https://www.youtube.com/playlist?list=PLNfg4W25Tapw5Yx4yuExHNybBIUk68aNz)
+ -------------
+동국대학교 홍정모교수님의 유투브강좌 [link](https://www.youtube.com/playlist?list=PLNfg4W25Tapw5Yx4yuExHNybBIUk68aNz)
