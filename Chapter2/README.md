@@ -17,3 +17,12 @@
 - long long 8 bytes
 
 - overflow 현상
+
+-------------
+
+### 2.6 불리언 자료형과 조건문 if
+
+- **boolean** 영국의 수학자 George Boole의 이름에서 따옴.
+- 나머지는 R과 매우 비슷.
+- 홀수/짝수 구분하는 숙제 hw_2_6.cpp
+
